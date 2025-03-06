@@ -1,5 +1,5 @@
 # Top-down-Zenject-shooter
-[Code is located here](https://github.com/wolkp/Top-down-Zenject-shooter/tree/main/Assets/Scripts)
+[Code is located here](https://github.com/wolkp/Top-down-Zenject-shooter/tree/main/TopDownZenjectShooter/Assets/Scripts)
 
 Simple 3d game presenting my usage of Zenject and clean code practices.
 
